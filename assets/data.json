@@ -75,10 +75,10 @@
 				"menuitem": "Learning Lab (US)",
 				"url": "https://www.ibm.com/us-en/marketplace/learning-lab"
 			},
-            "third-bullet": {
-                "menuitem": "Discounts",
-                "url": "https://www.ibm.com/bh-en/marketplace/collections/offers-and-discounts/"
-            }
+			"third-bullet": {
+				"menuitem": "Discounts",
+				"url": "https://www.ibm.com/bh-en/marketplace/collections/offers-and-discounts/"
+			}
 		}
 	},
 
@@ -117,7 +117,7 @@
 						"classes": "ibm-btn-sec ibm-btn-orange-50"
 					}]
 				}
-			},{
+			}, {
 				"card-header": "IBM Verse",
 				"first-decription": "Bring your business email platform into the social era <br />Starting at $5 USD per month per user",
 				"second-description": "<span class=\"ibm-bold ibm-textcolor-blue-50\">Get 10% off</span> – use promo code <span class=\"ibm-bold ibm-textcolor-blue-50\">VERSED10</span> at checkout",
@@ -136,7 +136,7 @@
 					}]
 				}
 			}]
-		},	{
+		}, {
 			"cards": [{
 				"card-header": "IBM Connections Cloud",
 				"first-decription": "Empower your team with the business collaboration tools they need <br />Starting at $6 USD per month per user",
